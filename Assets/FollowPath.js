@@ -46,7 +46,7 @@ function Start() {
     
     if(!useQueue) currentHeading = xform.forward;
     else currentHeading = Vector3.zero;
-    
+    	
     if(!isWayPointsValid())
     {
         Debug.Log("No waypoints on "+name);

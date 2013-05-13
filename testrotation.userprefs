@@ -1,6 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FollowPath.js">
+    <Files>
+      <File FileName="Assets/Move.js" Line="32" Column="1" />
+      <File FileName="Assets/TileGeneator.js" Line="53" Column="2" />
+      <File FileName="Assets/FollowPath.js" Line="95" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

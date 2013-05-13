@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\FollowPath.js" />
      <Compile Include="Assets\Move.js" />
+     <Compile Include="Assets\MovePlayer.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" />
